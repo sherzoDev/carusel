@@ -426,4 +426,8 @@ body {
   -webkit-box-flex: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
+}
+
+.carousel-item {
+  height: 600px;
 }/*# sourceMappingURL=styles.css.map */
